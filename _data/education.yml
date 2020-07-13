@@ -1,12 +1,12 @@
 # Degree
-- degree: Full Stack Webdeveloper Python  
-  uni: Minsk
-  year: June, 2014 &mdash; January, 2020
+- degree: Python Developer
+  uni: Coding School TeachMeSkills
+  year: December, 2019 &mdash; April, 2020
   # awards:
-  summary: all
+  summary: Python web application development, databases processing, implementation front-end using template Django, test coverage, functional programming, OOP.
 
-- degree: Full Stack Webdeveloper Nanodegree
-  uni: Udacity
-  year: June, 2014 &mdash; January, 2015
-  awards: Most Dedicated Student per Optional Activities Completed
-  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+- degree: Engineer
+  uni: Belarusian State University of Informatics and Radioelectronics
+  year: September, 2000 &mdash; June, 2005
+  # awards: Most Dedicated Student per Optional Activities Completed
+  # summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
