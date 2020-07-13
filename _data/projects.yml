@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# coffee_point
+- project: coffee_point
+  role: CEO
+  duration: May, 2020 &mdash; Present
+  url: "https://github.com/dima-anatsko/coffee_point"
+  description: Coffee-Point application development, accounting and storage of data, generating sales and profit reports, creating product cards
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# online store
+- project: Online store
+  role: Student
+  duration: March, 2020 &mdash; May, 2020
+  url: "https://github.com/dima-anatsko/z25_web"
+  description: Development of an online store with email notification
