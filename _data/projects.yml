@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # coffee_point
-- project: coffee_point
+- project: Coffee point
   role: Founder
   duration: May, 2020 &mdash; Present
   url: "https://github.com/dima-anatsko/coffee_point"
-  description: Coffee-Point application development, accounting and storage of data, generating sales and profit reports, creating product cards
+  description: Coffee point application development, accounting and storage of data, generating sales and profit reports, creating product cards
 
 # online store
 - project: Online store
