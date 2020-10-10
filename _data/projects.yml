@@ -16,8 +16,7 @@
   description: 'Online store with sorting and filtering options. Customizable pagination for displaying large amounts of information. With the function of sending emails about promotions and sales. You can choose one of three languages for displaying content. Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Celery, Redis,  Django REST Framework.'
 
 # Parsers
-- project: Internet-shop on Django
+- project: Parsers
   role: Freelance
   duration: February, 2020 &mdash; May, 2020
-  url: ""
   description: 'Parser for searching, collecting and retrieving information from various sites (depending on requirement). Tools & Technologies: Python, BeautifulSoup, HTML, XML, CSV.'
