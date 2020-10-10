@@ -24,6 +24,7 @@
   role: Freelance
   duration: February, 2020 &mdash; May, 2020
   url: ""
-  description: |-
+  description: "
       Parser for searching, collecting and retrieving information from various sites (depending on requirement).
-      Tools & Technologies: Python, BeautifulSoup, HTML, XML, CSV.
+      
+      Tools & Technologies: Python, BeautifulSoup, HTML, XML, CSV."
