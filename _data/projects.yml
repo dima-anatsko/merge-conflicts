@@ -2,15 +2,22 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # coffee_point
-- project: Coffee point
+- project: CRM system for coffee shops based on Django
   role: Founder
   duration: May, 2020 &mdash; June, 2020
   url: "https://github.com/dima-anatsko/coffee_point"
-  description: Coffee point application development, accounting and storage of data, generating sales and profit reports, creating product cards
+  description: The online application allows you to keep warehouse, management and financial records. Distribution of roles of Director and bartender. Functions of acceptance of goods, storage of goods in a warehouse, write-off from a warehouse are implemented. Formation of technological maps of cooking. Automatic calculation of the cost of finished products. Calculating the profitability of the cafe. Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Jinja2.
 
 # online store
-- project: Online store
+- project: Internet-shop on Django
   role: Student
   duration: March, 2020 &mdash; May, 2020
   url: "https://github.com/dima-anatsko/z25_web"
-  description: Development of an online store with email notification
+  description: Online store with sorting and filtering options. Customizable pagination for displaying large amounts of information. With the function of sending emails about promotions and sales. You can choose one of three languages for displaying content. Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Celery, Redis,  Django REST Framework.
+
+# Parsers
+- project: Internet-shop on Django
+  role: Freelance
+  duration: Jule, 2020 &mdash; August, 2020
+  description: Parser for searching, collecting and retrieving information from various sites (depending on requirement). Tools & Technologies: Python, BeautifulSoup, HTML, XML, CSV.
+  
