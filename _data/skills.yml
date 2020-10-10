@@ -2,10 +2,10 @@
 
 # Technical
 - skill: Technical
-  description: Python, Django, PostgreSQL, DRF, Git, Linux, HTML, CSS, Bootstrap, Jinja2, Celery, Redis.
+  description: Python, Django, Flask, PostgreSQL, Django REST Framework, Git, GitHub, Linux, HTML, CSS, Bootstrap, Jinja2, Celery, Redis, SQL, JSON, XML, CSV, BeautifulSoup, PyCharm.
 
 
 
 # Leadership
 - skill: Leadership
-  description: Managed teams, planning, control, communication and operational problem-solving.
+  description: Team management, planning, control, independence, communication and prompt problem solving.
