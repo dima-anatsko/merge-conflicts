@@ -6,9 +6,7 @@
   role: Founder
   duration: May, 2020 &mdash; June, 2020
   url: "https://github.com/dima-anatsko/coffee_point"
-  description: "The online application allows you to keep warehouse, management and financial records. Distribution of roles of Director and bartender. Functions of acceptance of goods, storage of goods in a warehouse, write-off from a warehouse are implemented. Formation of technological maps of cooking. Automatic calculation of the cost of finished products. Calculating the profitability of the cafe.\n
-  
-  Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Jinja2."
+  description: "The online application allows you to keep warehouse, management and financial records. Distribution of roles of Director and bartender. Functions of acceptance of goods, storage of goods in a warehouse, write-off from a warehouse are implemented. Formation of technological maps of cooking. Automatic calculation of the cost of finished products. Calculating the profitability of the cafe.<br>Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Jinja2."
 
 # online store
 - project: Internet-shop on Django
