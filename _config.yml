@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Dima Anatsko"
+resume_name:                    "Dima Anatsko test"
 resume_title:                   "Python developer"
 resume_contact_email:           "anatskodr@gmail.com"
 resume_contact_telephone:       ""
