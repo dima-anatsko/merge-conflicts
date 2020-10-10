@@ -1,6 +1,6 @@
 # Recognitions
-- award: Python developer
-  organization: Freelance
+- #award: Python developer
+  #organization: Freelance
   year: 2020
   summary: "The online application allows you to keep warehouse, management and financial records. Distribution of roles of Director and bartender. Functions of acceptance of goods, storage of goods in a warehouse, write-off from a warehouse are implemented. Formation of technological maps of cooking. Automatic calculation of the cost of finished products. Calculating the profitability of the cafe.<br><b>Tools & Technologies:</b> Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Jinja2."
   
