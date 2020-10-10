@@ -6,7 +6,7 @@
   role: Founder
   duration: May, 2020 &mdash; June, 2020
   url: "https://github.com/dima-anatsko/coffee_point"
-  description: |
+  description: |-
       The online application allows you to keep warehouse, management and financial records. Distribution of roles of Director and bartender. Functions of acceptance of goods, storage of goods in a warehouse, write-off from a warehouse are implemented. Formation of technological maps of cooking. Automatic calculation of the cost of finished products. Calculating the profitability of the cafe.
       Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Jinja2.
 
@@ -15,7 +15,7 @@
   role: Student
   duration: March, 2020 &mdash; May, 2020
   url: "https://github.com/dima-anatsko/z25_web"
-  description: |
+  description: |-
       Online store with sorting and filtering options. Customizable pagination for displaying large amounts of information. With the function of sending emails about promotions and sales. You can choose one of three languages for displaying content.
       Tools & Technologies: Python, Django, PostgreSQL, HTML/CSS, Bootstrap, Celery, Redis,  Django REST Framework.
 
@@ -24,6 +24,6 @@
   role: Freelance
   duration: February, 2020 &mdash; May, 2020
   url: ""
-  description: |
+  description: |-
       Parser for searching, collecting and retrieving information from various sites (depending on requirement).
       Tools & Technologies: Python, BeautifulSoup, HTML, XML, CSV.
