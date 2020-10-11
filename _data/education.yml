@@ -1,9 +1,15 @@
 # Degree
 - degree: Python Developer
   uni: Coding School TeachMeSkills
-  year: December, 2019 &mdash; April, 2020
+  year: December, 2019 &mdash; June, 2020
   # awards:
   summary: Python web application development, databases processing, implementation front-end using template Django, test coverage, functional programming, OOP.
+
+- degree: Python Developer
+  uni: Coursera
+  year: September, 2019 &mdash; December, 2019
+  # awards:
+  summary: The basics of programming in Python
 
 - degree: Engineer
   uni: Belarusian State University of Informatics and Radioelectronics
